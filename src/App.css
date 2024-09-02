@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+body{
+  background-image: url("https://images.filmibeat.com/img/popcorn/movie_posters/saripodhaa-sanivaaram-20231025143312-22264.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+
+  
+}
+
+.h1{
+  color: white;
+}
